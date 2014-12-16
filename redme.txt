@@ -1,5 +1,5 @@
 dupa2
-dupa3
+BBBBB
 dupa4 
 aaa
 a
