@@ -1,6 +1,6 @@
 dupa2
 AAAA
-dupa4 
+CCCC 
 aaa
 a
 a
