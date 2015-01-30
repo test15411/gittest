@@ -1,4 +1,4 @@
-dupa2
+head dupa2
 ZAAA
 ZFCC 
 ZQ
